@@ -1,0 +1,304 @@
+﻿{
+    "elements": [
+        {
+            "name": "Hydrogen",
+            "atomic_mass": 1.008,
+            "symbol": "H",
+	     "atomic_number": 1,
+             "discovered": 1766,
+             "phase": "Gas",
+             "electron_per_shell": "1",
+             "electron_configuration": "1s1"
+        },
+        {
+            "name": "Helium",
+            "atomic_mass": 4.003,
+            "symbol": "He",
+            "atomic_number": 2,
+            "discovered": 1868,
+            "phase": "Gas",
+            "electron_per_shell": "2",
+            "electron_configuration": "1s2"
+        },
+        {
+            "name": "Lithium",
+            "atomic_mass": 6.94,
+            "symbol": "Li",
+            "atomic_number": 3,
+            "discovered":1868,
+            "phase":"Solid",
+            "electron_per_shell": "2, 1",
+            "electron_configuration": "[He] 2s1"
+        },
+        {
+            "name": "Beryllium",
+            "atomic_mass": 9.012,
+            "symbol": "Be",
+            "atomic_number": 4,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,2",
+            "electron_configuration": "[He] 2s2"
+        },
+        {
+            "name": "Boron",
+            "atomic_mass": 10.81,
+            "symbol": "B",
+            "atomic_number": 5,
+            "discovered": 1868,
+            "phase":"Solid",
+            "electron_per_shell": "2,3",
+            "electron_configuration": "[He] 2s2 2p1"
+        },
+        {
+            "name": "Carbon",
+            "atomic_mass": 12.011,
+            "symbol": "C",
+            "atomic_number": 6,
+            "discovered": 1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,4",
+            "electron_configuration": "[He] 2s2 2p2"
+        },
+        {
+            "name": "Nitrogen",
+            "atomic_mass": 14.007,
+            "symbol": "N",
+            "atomic_number": 7,
+            "discovered": 1868,
+            "phase":"Gas",
+            "electron_per_shell": "2,5",
+            "electron_configuration": "[He] 2s2 2p3"
+        },
+        {
+            "name": "Oxygen",
+            "atomic_mass": 15.999,
+            "symbol": "O",
+            "atomic_number": 8,
+            "discovered":1868,
+            "phase":"Gas",
+            "electron_per_shell":"2,6",
+            "electron_configuration": "[He] 2s2 2p4"
+        },
+        {
+            "name": "Flourine",
+            "atomic_mass": 18.998,
+            "symbol": "F",
+            "atomic_number": 9,
+            "discovered":1868,
+            "phase": "Gas",
+            "electron_per_shell": "2,7",
+            "electron_configuration": "[He] 2s2 2p5"
+        },
+        {
+            "name": "Neon",
+            "atomic_mass": 20.179,
+            "symbol": "Ne",
+            "atomic_number": 10,
+            "discovered":1868,
+            "phase":"Gas",
+            "electron_per_shell": "2,8",
+            "electron_configuration": "[He] 2s2 2p6"
+        },
+        {
+            "name": "Sodium",
+            "atomic_mass": 22.989,
+            "symbol": "Na",
+            "atomic_number": 11,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,1",
+            "electron_configuration": "[Ne] 3s1"
+        },
+        {
+            "name": "Magnesium",
+            "atomic_mass": 24.305,
+            "symbol": "Mg",
+            "atomic_number": 12,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,2",
+            "electron_configuration": "[Ne] 3s2"
+        },
+        {
+            "name": "Aluminium",
+            "atomic_mass": 26.981,
+            "symbol": "Al",
+            "atomic_number": 13,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,3",
+            "electron_configuration": "[Ne] 3s2 3p1"
+        },
+        {
+            "name": "Silicon",
+            "atomic_mass": 28.085,
+            "symbol": "Si",
+            "atomic_number": 14,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,4",
+            "electron_configuration": "[Ne] 3s2 3p2"
+        },
+        {
+            "name": "Phosphorus",
+            "atomic_mass": 20.974,
+            "symbol": "P",
+            "atomic_number": 15,
+            "discovered":1868,
+            "phase":"Solid",
+            "electron_per_shell": "2,8,5",
+            "electron_configuration": "[Ne] 3s2 3p3"
+        },
+        {
+            "name": "Sulfur",
+            "atomic_mass": 32.06,
+            "symbol": "S",
+            "atomic_number": 16,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell":"2,8,6",
+            "electron_configuration":"[Ne] 3s2 3p4"
+        },
+        {
+            "name": "Chlorine",
+            "atomic_mass": 35.45,
+            "symbol": "Cl",
+            "atomic_number": 17,
+            "discovered":1868,
+            "phase":"Gas",
+            "electron_per_shell": "2,8,7",
+            "electron_configuration": "[Ne] 3s2 3p5"
+        },
+        {
+            "name": "Argon",
+            "atomic_mass": 39.948,
+            "symbol": "Ar",
+            "atomic_number": 18,
+            "discovered":1868,
+            "phase": "Gas",
+            "electron_per_shell":"2,8,8",
+            "electron_configuration": "[Ne] 3s2 3p6"
+        },
+        {
+            "name": "Potassium",
+            "atomic_mass": 39.098,
+            "symbol": "K",
+            "atomic_number": 19,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,8,1",
+            "electron_configuration": "[Ar] 4s1"
+        },
+        {
+            "name": "Calcium",
+            "atomic_mass": 40.078,
+            "symbol": "Ca",
+            "atomic_number": 20,
+            "discovered":1868,
+            "phase":"Solid",
+            "electron_per_shell": "2,8,8,2",
+            "electron_configuration":"[Ar] 4s2"
+        },
+        {
+            "name": "Scandium",
+            "atomic_mass": 44.956,
+            "symbol": "Sc",
+            "atomic_number": 21,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,9,2",
+            "electron_configuration":"[Ar] 3d1 4s2"
+        },
+        {
+            "name": "Titanium",
+            "atomic_mass": 47.867,
+            "symbol": "Ti",
+            "atomic_number": 22,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,10,2",
+            "electron_configuration": "[Ar] 3d2 4s2"
+        },
+        {
+            "name": "Vanadium",
+            "atomic_mass": 50.942,
+            "symbol": "V",
+            "atomic_number": 23,
+            "discovered":1868,
+            "phase":"Solid",
+            "electron_per_shell": "2,8,11,2",
+            "electron_configuration": "[Ar] 3d3 4s2"
+        },
+        {
+            "name": "Chromium",
+            "atomic_mass": 51.996,
+            "symbol": "Cr",
+            "atomic_number": 24,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,13,1",
+            "electron_configuration": "[Ar] 3d5 4s1"
+        },
+        {
+            "name": "Manganese",
+            "atomic_mass": 54.938,
+            "symbol": "Mn",
+            "atomic_number": 25,
+            "discovered":1868,
+            "phase":"Solid",
+            "electron_per_shell": "2,8,13,2",
+            "electron_configuration": "[Ar] 3d5 4s2"
+        },
+        {
+            "name": "Iron",
+            "atomic_mass": 55.845,
+            "symbol": "F",
+            "atomic_number": 26,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,14,2",
+            "electron_configuration": "[Ar] 3d6 4s2"
+        },
+        {
+            "name": "Cobalt",
+            "atomic_mass": 58.933,
+            "symbol": "Co",
+            "atomic_number": 27,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell":"2,8,15,2",
+            "electron_configuration": "[Ar] 3d7 4s2"
+        },
+        {
+            "name": "Nickel",
+            "atomic_mass": 58.693,
+            "symbol": "Ni",
+            "atomic_number": 28,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,16,2",
+            "electron_configuration": "[Ar] 3d8 4s2"
+        },
+        {
+            "name": "Copper",
+            "atomic_mass": 63.546,
+            "symbol": "Cu",
+            "atomic_number": 29,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,1",
+            "electron_configuration": "[Ar] 3d10 4s1"
+        },
+        {
+            "name": "Zinc",
+            "atomic_mass": 65.382,
+            "symbol": "Zn",
+            "atomic_number": 30,
+            "discovered":1868,
+            "phase": "Solid",
+            "electron_per_shell": "2,8,18,2",
+            "electron_configuration": "[Ar] 3d10 4s2"
+        }
+     ]
+}

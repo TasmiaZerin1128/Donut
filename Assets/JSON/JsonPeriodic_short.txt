@@ -1,0 +1,16 @@
+﻿{
+    "elements": [
+        {
+            "name": "Hydrogen",
+            "atomic_mass": 1.008,
+            "symbol": "H",
+	    "number": 1
+        },
+        {
+            "name": "Helium",
+            "atomic_mass": 4.0026022,
+            "symbol": "He",
+            "number": 2
+        }
+     ]
+}
