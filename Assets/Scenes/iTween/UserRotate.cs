@@ -5,11 +5,14 @@ using UnityEngine;
 public class UserRotate : MonoBehaviour
 {
 
-    float rotationSpeed = 3f;
+    float rotationSpeed = 4f;
     Quaternion Oldposition;
+    Vector3 pos = new Vector3(0, 0, 0);
+    GameObject atom;
 
     private void Start()
     {
+        atom = GameObject.Find("Oxygen");
         Oldposition = transform.rotation;
     }
     public void Update()
@@ -23,10 +26,11 @@ public class UserRotate : MonoBehaviour
                // transform.Rotate(Vector3.down, XaxisRotation);
                 // transform.Rotate(Vector3.right, YAxisRotation);
         }
-        else
+        else if(Input.GetMouseButtonUp(0))
         {
             Debug.Log("Released");
-            transform.rotation = Oldposition;
+            iTween.RotateTo(atom,pos,1.6f);
+            //transform.rotation = Oldposition;
         } 
     }
 
